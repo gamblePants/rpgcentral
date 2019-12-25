@@ -9,9 +9,9 @@ To pass the PHP component of my Diploma I had to complete the following requirem
 * A functioning multi-topic forum with database connection to store previous topics and posts. Ensure all links within the application to test functionality are working i.e. easily navigate between topics, threads and related posts. 
 
 * A functioning shopping cart that allows users to fill a shopping cart and stores the checkout details of the shopper in the database. 
- * When someone checks out, it should reduce the inventory in the database.
- * If they decide to remove an item from their cart, it should replace the stock.
- * Optional: have the quantity of items in drop down list populated from the database (done)
+  * When someone checks out, it should reduce the inventory in the database.
+  * If they decide to remove an item from their cart, it should replace the stock.
+  * Optional: have the quantity of items in drop down list populated from the database (done)
  
 * Include at least one AJAX feature (I chose pagination for the list of threads and posts displayed)
  
