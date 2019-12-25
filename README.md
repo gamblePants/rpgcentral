@@ -30,3 +30,5 @@ I wanted to make my site look a bit more like a real forum so added a few things
 * Made it compulsory to login in order to create a new thread or post
 
 * Added some validation for the login page, sign-up page, contact form and checkout page
+
+* Deconstructed my jQuery AJAX functions so I could learn how to do them with Vanilla JS
