@@ -1,2 +1,2 @@
-# rpgcentral
+# RPGcentral
 PHP forum and online shop
