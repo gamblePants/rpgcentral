@@ -2,7 +2,9 @@
 
 This repository was created to showcase the PHP forum and online shop I created this year for my Diploma in Web Development. It is not currently hosted as I would like to create some more security (and cosmetic) features before I get it live. The site is mostly built with PHP, MySQL, HTML and CSS, but also has some JavaScript and AJAX functionality. 
 
+
 ![forum.PNG](https://gamblepants.github.io/img/forum.PNG)
+
 
 ## Diploma Requirements
 
